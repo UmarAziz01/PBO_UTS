@@ -29,7 +29,7 @@ lalu lakukan enkapsulasi supaya data bisa ditampilkan
 
 **Lalu buat kode seperti dibawah ini untuk melengkapi button yang sudah dibuat**
 ![image](https://github.com/user-attachments/assets/99b08a4d-325d-45b8-ab68-1081834428b1)
-```java
+````java
 import java.util.List;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
@@ -383,6 +383,28 @@ public class CRUDForm extends javax.swing.JFrame {
     private javax.swing.JTextField tfSKS;
     private javax.swing.JTextField tfSmtAjar;
     // End of variables declaration                   
+    }
 }
-```java
+```` 
+**jalankan Program
+
+menambahkan
+![image](https://github.com/user-attachments/assets/18a10507-4e8b-46be-a01a-d1d25f5f77f2)
+
+setelah penambahan
+![image](https://github.com/user-attachments/assets/d8b3c0a5-83d7-4887-80ad-96f390255267)
+
+mengupdate
+![image](https://github.com/user-attachments/assets/680b67c7-94a7-4207-af95-7f5a553643af)
+
+setelah update
+![image](https://github.com/user-attachments/assets/2e984d12-3f17-431b-a7c7-0688b10240a0)
+
+
+hapus
+![image](https://github.com/user-attachments/assets/6862613b-ea93-4643-a078-21b220ae81bb)
+
+setalah hapus
+![image](https://github.com/user-attachments/assets/e24a2201-eb56-4725-9dff-e0523d46dfb1)
+
 
